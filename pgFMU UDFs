@@ -1,6 +1,8 @@
 1. fmu_create (modelRef, [instanceId]) -> instanceId
 Usage example:
+```sql
 SELECT fmu_create ('/tmp/hp1.fmu', 'HP1Instance1');
+```
 
 2. fmu_copy (instanceId, [instanceId2]) -> instanceId2
 Usage example:

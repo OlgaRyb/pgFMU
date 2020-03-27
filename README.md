@@ -13,9 +13,9 @@ numpyon Ubuntu 16.04), with superuser permissions.
 
 # Third-party software
 
-pgFMU relies on a number of third-party software, namely JModelica. please make sure to install JModelica firstly.
+pgFMU relies on a third-party software, namely JModelica. please make sure to install JModelica firstly.
 
-Python packages:
+pgFMU also relies on the following Python packages:
  - pyFMI
  - pymodelica
  - Modestpy

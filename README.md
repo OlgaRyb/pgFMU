@@ -6,8 +6,7 @@ pgFMU is a solution for data analysts that need to work with both data and FMU-b
 # Installation
 
 # Prerequisites:
-1. A Linux-based distribution, with Kernel 3.19 or higher (tested
-numpyon Ubuntu 16.04), with superuser permissions.
+1. A Linux-based distribution, with Kernel 3.19 or higher (tested on Ubuntu 16.04), with superuser permissions.
 2. Basic development tools: make, gcc, g++
 3. PostgreSQL 9.6 or higher
 

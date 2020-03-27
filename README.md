@@ -8,7 +8,10 @@ pgFMU is a solution for data analysts that need to work with both data and FMU-b
 1. Clone or download the project.
 2. Open your PostgreSQL client.
 3. Run:
+
+```sql
 CREATE EXTENSION pgFMU;
+```
 
 # Prerequisites:
 1. A Linux-based distribution, with Kernel 3.19 or higher (tested on Ubuntu 16.04), with superuser permissions.

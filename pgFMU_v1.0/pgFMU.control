@@ -1,0 +1,6 @@
+# DBMS extension for manipulating FMU models
+comment = 'DBMS extension for manipulating FMU models'
+default_version = '1.0'
+module_pathname = '$libdir/pgFMU'
+relocatable = false
+schema = public

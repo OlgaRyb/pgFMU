@@ -420,7 +420,6 @@ if query != '':
 else:
 	res = model.simulate(start_time = timefrom, final_time = timeto)
 	t = res['time']
-
 k=[]
 k_names = []
 for i in range (len(outputs)):

@@ -20,11 +20,11 @@ SELECT fmu_set_initial ('HP1Instance1', 'A', 0)
 
 6. fmu_set_minimum (instanceId, varName, initialValue) -> instanceId
 Usage example:
-SELECT fmu_set_minimum ('HP1Instance1', 'A', -10)
+SELECT fmu_set_minimum ('HP1Instance1', 'A', -20)
 
 7. fmu_set_maximum (instanceId, varName, initialValue) -> instanceId
 Usage example:
-SELECT fmu_set_maximum ('HP1Instance1', 'A', 10)
+SELECT fmu_set_maximum ('HP1Instance1', 'A', 20)
 
 8. fmu_reset (instanceId) -> instanceId
 Usage example:

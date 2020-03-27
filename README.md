@@ -1,5 +1,5 @@
 # pgFMU
-An extension for traditional DBMS to work with model simulation, validation and calibration.
+An extension for traditional DBMS to work with model simulation, validation, and calibration.
 
 pgFMU is a solution for data analysts that need to work with both data and FMU-based simulation models in a single model- and data management environment. pgFMU facilitates user interaction with FMI-based model storage, model simulation, and parameter estimation tasks inside an SQL-based environment. For this purpose, pgFMU offers a number of convenient User Defined Functions (UDFs) accessible by simple SQL queries for each necessary operation.
 

@@ -33,6 +33,8 @@ pgFMU also relies on the following Python packages:
 
 This version of pgFMU is based on Python 2.7.
 
+This is an ongoing work, so please feel free to report any issues that were found.
+
 pgFMU is based on:
 
 [1] Olga Rybnytska, Laurynas Šikšnys, Torben Bach Pedersen, and Bijay Neupane. pgFMU: Integrating Data Management with Physical System Modeling. In Proceedings of EDBT2020.

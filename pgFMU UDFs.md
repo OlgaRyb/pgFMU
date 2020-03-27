@@ -50,7 +50,7 @@ Usage example:
 SELECT fmu_set_initial ('HP1Instance1', 'A', 0)
 ```
 
-6. fmu_set_minimum (instanceId, varName, initialValue) -> instanceId
+6. _fmu_set_minimum (instanceId, varName, initialValue) -> instanceId_
 
 This function sets the minimum value of the specific model instance variable.
 
@@ -60,7 +60,7 @@ Usage example:
 SELECT fmu_set_minimum ('HP1Instance1', 'A', -20)
 ```
 
-7. fmu_set_maximum (instanceId, varName, initialValue) -> instanceId
+7. _fmu_set_maximum (instanceId, varName, initialValue) -> instanceId_
 
 This function sets the maximum value of the specific model instance variable.
 

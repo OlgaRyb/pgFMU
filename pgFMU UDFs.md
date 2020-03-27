@@ -97,7 +97,7 @@ This function estimates the parameters of the FMU model instance. As input, it t
 Usage example:
 
 ```sql
-SELECT fmu_parest ('{HP1Instance1, HP1Instance2}', '{SELECT ' FROM measurements, SELECT ' FROM measurements2}', '{A, B}')
+SELECT fmu_parest ('{HP1Instance1, HP1Instance2}', '{SELECT ' FROM measurements, SELECT ' FROM measurements2}', 't', '{A, B}')
 ```
 
 11. _fmu_simulate (instanceId, [input_sql], [time_to], [time_from]) -> (simulaitonTime, instanceId, values)_
